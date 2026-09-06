@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "ios": {
+    "enabled": false,
+    "latestVersion": "1.0.0",
+    "message": "新しいバージョンが公開されました。App Storeからアップデートしてください。"
+  }
+}
